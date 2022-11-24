@@ -1,9 +1,9 @@
 #clockContainer{  
     position: relative;
     margin: auto;
-    height: 40vw;
-    width: 40vw; 
-    background: url(clock.png) no-repeat;
+    height: 70vw;
+    width: 70vw; 
+    background: url(clock.jpg) no-repeat;
     background-size: 100%;
 }
 
@@ -22,7 +22,7 @@
 }
 #minute{
     width: 1.6%;
-    height: 30%;
+    height: 32%;
     top: 19%;
     left: 48.9%;
     opacity: 0.8;  
