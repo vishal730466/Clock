@@ -1,3 +1,6 @@
+body{
+  background-color: transparent;
+}
 #clockContainer{  
     position: relative;
     margin: auto;
